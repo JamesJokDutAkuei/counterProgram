@@ -1,0 +1,13 @@
+main {
+    margin-top: 15%;
+}
+.allButtons {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+#label {
+    font-size: 200px;
+    display: block;
+    text-align: center;
+}
